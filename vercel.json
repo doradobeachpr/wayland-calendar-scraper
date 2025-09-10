@@ -1,0 +1,1 @@
+{"buildCommand":"bun run build","devCommand":"bun run dev","installCommand":"bun install","outputDirectory":"out"}
